@@ -17,7 +17,7 @@
 # - now save the page as a .txt file to be able to use it in the shell.
 # - make sure to save this file in the same location as the script
 # 
-# this shell script is used in the linux shell with version number: .
+# this shell script is used in the linux shell with version number: 22.10.
 
 # this little code checks if the argument should is indeed a txt file.
 TEXT=$1
