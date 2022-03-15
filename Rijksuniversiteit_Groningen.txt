@@ -1,0 +1,1497 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@TychoKleinGunnewiek
+TychoKleinGunnewiek /
+milestone-5
+Public
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+milestone-5/Rug_Wikipedia.txt
+@TychoKleinGunnewiek
+TychoKleinGunnewiek the rug wikipedia site in txt file and the shell script for milestone 5
+Latest commit 94aa9ab on Mar 11, 2020
+History
+1 contributor
+1453 lines (1263 sloc) 75 KB
+
+  Rijksuniversiteit Groningen
+
+Uit Wikipedia, de vrije encyclopedie
+Naar navigatie springen <#mw-head> Naar zoeken springen <#p-search>
+Rijksuniversiteit Groningen
+RUG Armoiries.jpg
+<https://commons.wikimedia.org/wiki/File:RUG_Armoiries.jpg>
+Latijnse naam 	Academia Groningana
+Motto 	/Verbum Domini lucerna pedibus nostris/ (Het woord van de Heer is
+een lamp voor onze voeten)
+Locatie 	Groningen <https://nl.wikipedia.org/wiki/Groningen_(stad)>,
+Nederland
+Opgericht 	1614
+Rector 	Prof. dr. Cisca Wijmenga
+<https://nl.wikipedia.org/wiki/Cisca_Wijmenga> (vanaf 1 sept 2019)
+Studenten 	30.472 (per 01/09/2017 ingeschreven)
+Personeel 	6500 incl UMCG <https://nl.wikipedia.org/wiki/UMCG> (2017)
+Lid van 	Coimbra <https://nl.wikipedia.org/wiki/Coimbragroep>, EUA
+<https://nl.wikipedia.org/wiki/EUA>, SAE
+<https://nl.wikipedia.org/wiki/Stichting_Academisch_Erfgoed>
+Website <http://www.rug.nl/>
+*Portaal*  Portaalicoon
+<https://commons.wikimedia.org/wiki/File:Portal.svg>   	*Onderwijs
+<https://nl.wikipedia.org/wiki/Portaal:Onderwijs> *
+
+De *Rijksuniversiteit Groningen* (RUG) is de universiteit
+<https://nl.wikipedia.org/wiki/Universiteit> in de Nederlandse stad
+Groningen <https://nl.wikipedia.org/wiki/Groningen_(stad)>. De
+universiteit is gesticht in 1614 en daarmee na de Universiteit Leiden
+<https://nl.wikipedia.org/wiki/Universiteit_Leiden> de oudste nog
+bestaande universiteit van Nederland.^[1] <#cite_note-1> Met circa
+30.000 studenten en ongeveer 6.000 medewerkers is het een van de
+grootste Nederlandse universiteiten.
+
+
+Inhoud
+
+  * 1 Naam en wapen <#Naam_en_wapen>
+  * 2 Geschiedenis <#Geschiedenis>
+      o 2.1 17e en 18e eeuw <#17e_en_18e_eeuw>
+      o 2.2 19e eeuw <#19e_eeuw>
+      o 2.3 20e en 21e eeuw <#20e_en_21e_eeuw>
+  * 3 Organisatie <#Organisatie>
+      o 3.1 Faculteiten <#Faculteiten>
+      o 3.2 Internationale samenwerking <#Internationale_samenwerking>
+  * 4 Onderzoek <#Onderzoek>
+      o 4.1 Onderzoeksinstituten <#Onderzoeksinstituten>
+  * 5 Onderwijs <#Onderwijs>
+      o 5.1 Studies en studentenpopulatie <#Studies_en_studentenpopulatie>
+  * 6 Externe beoordelingen <#Externe_beoordelingen>
+  * 7 Studentenleven <#Studentenleven>
+  * 8 Eredoctoraten <#Eredoctoraten>
+  * 9 Bekende alumni en medewerkers <#Bekende_alumni_en_medewerkers>
+  * 10 Publicaties <#Publicaties>
+  * 11 Externe link <#Externe_link>
+
+
+    Naam en wapen[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=1>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=1>]
+
+<https://commons.wikimedia.org/wiki/File:Groningen,_University_(balloons).jpg>
+
+<https://nl.wikipedia.org/wiki/Bestand:Groningen,_University_(balloons).jpg>
+Ballonnen met het universiteitslogo
+
+De universiteit zelf heeft sinds 1614 verschillende namen gevoerd:
+Hogeschool te Groningen, Universiteit van Stadt en Lande, Academia
+Provincalis Groningae et Omlandiae, Universitas Imperialis, Université
+Impériale, Academia Groningana (Keizerlijke Universiteit, Academie van
+Groningen; 1812),^[2] <#cite_note-2> Rijkshogeschool Groningen en sinds
+1876: Rijksuniversiteit Groningen.^[3] <#cite_note-3>
+
+Het wapen <https://nl.wikipedia.org/wiki/Wapen_(heraldiek)> van de
+universiteit, in 1615 vastgesteld door de Staten van Stad en Lande van
+Groningen, bestond uit het wapenschild van de provincie Groningen, dat
+een samenvoeging is van het stadswapen en het wapen van de Ommelanden
+<https://nl.wikipedia.org/wiki/Ommelanden_(Groningen)>. Dit
+provinciewapen is verdeeld in vier delen: linksboven en rechtsonder
+wordt het stadswapen afgebeeld, in de andere kwadranten het
+Ommelanderwapen. Op het wapenschild is een opengeslagen boek afgebeeld
+met de (afgekorte) tekst 'VER/BUM/DNI LU/CER/NA' die staat voor 'VERBUM
+DOMINI LUCERNA PEDIBUS NOSTRIS', Het woord des Heren is een lamp voor
+onze voeten, een zinsnede afkomstig uit Psalm
+<https://nl.wikipedia.org/wiki/Psalmen> 119:105. Het wapen wordt gedekt
+door een kroon <https://nl.wikipedia.org/wiki/Kroon_(heraldiek)>,
+bestaande uit vijf bladeren en vier parels
+<https://nl.wikipedia.org/wiki/Parel>.^[4] <#cite_note-4> Bij de
+vernieuwing van de huisstijl <https://nl.wikipedia.org/wiki/Huisstijl>
+in 2008 is het wapen vereenvoudigd omdat dat handiger is bij digitale
+<https://nl.wikipedia.org/wiki/Digitaal> toepassingen.^[5] <#cite_note-5>
+
+De universiteit heeft haar christelijke identiteit^[6] <#cite_note-6>
+achter zich gelaten en gekozen voor het motto: "Werken aan de grenzen
+van het weten". Tegenwoordig wordt echter meestal "founded in 1614 - top
+100 university" gebruikt.
+
+De afkorting RUG wordt door de universiteit alleen gebruikt in het
+Nederlands. In Engelse teksten en in contacten met het buitenland wordt
+"University of Groningen" (UG) gebruikt.^[7] <#cite_note-7>
+
+
+    Geschiedenis[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=2>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=2>]
+
+
+      17e en 18e eeuw[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=3>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=3>]
+
+<https://commons.wikimedia.org/wiki/File:UbboEmmius1618.jpg>
+<https://nl.wikipedia.org/wiki/Bestand:UbboEmmius1618.jpg>
+Ubbo Emmius <https://nl.wikipedia.org/wiki/Ubbo_Emmius>, de eerste
+rector magnificus <https://nl.wikipedia.org/wiki/Rector_magnificus>
+
+De officiële opening vond plaats op 23 augustus 1614. De
+Rijksuniversiteit Groningen behoort tot de oudste universiteiten van
+Nederland. Haar academische traditie gaat terug tot 1614
+<https://nl.wikipedia.org/wiki/1614>, het jaar dat de Universiteit als
+/Hogeschool <https://nl.wikipedia.org/wiki/Hogeschool>/ werd gesticht.
+De Juridische faculteit claimt overigens een nog oudere
+geschiedenis.^[8] <#cite_note-8> Daarmee is 'Groningen' na Leiden
+<https://nl.wikipedia.org/wiki/Universiteit_Leiden> (1575) de oudste
+(nog bestaande) universiteit van Nederland (de Universiteit van Franeker
+<https://nl.wikipedia.org/wiki/Universiteit_van_Franeker>, die in 1811
+werd gesloten, was van 1585).
+
+De Groningse universiteit startte met vier faculteiten
+<https://nl.wikipedia.org/wiki/Faculteit_(onderwijs)>: Protestantse
+Godgeleerdheid <https://nl.wikipedia.org/wiki/Theologie>, Rechten
+<https://nl.wikipedia.org/wiki/Rechtsgeleerdheid>, Geneeskunde
+<https://nl.wikipedia.org/wiki/Geneeskunde> en Filosofie
+<https://nl.wikipedia.org/wiki/Filosofie>.^[9] <#cite_note-9> Ongeveer
+de helft van de studenten en docenten kwam in de zeventiende eeuw uit
+het buitenland. Zo kwam de eerste rector magnificus
+<https://nl.wikipedia.org/wiki/Rector_magnificus>, Ubbo Emmius
+<https://nl.wikipedia.org/wiki/Ubbo_Emmius>, uit Duitsland,^[10]
+<#cite_note-10> zij het wel uit het nabijgelegen Oost-Friesland
+<https://nl.wikipedia.org/wiki/Oost-Friesland> waarvan de taal vrijwel
+identiek is aan het Gronings. De eerste 75 jaren van haar bestaan ging
+het de universiteit voor de wind met een instroom van ongeveer honderd
+studenten per jaar.
+
+Door theologische meningsverschillen, een moeizame relatie met de Staten
+en politieke perikelen – onder meer de belegering van de stad door
+'Bommen Berend <https://nl.wikipedia.org/wiki/Gronings_Ontzet>' in 1672
+– stagneerde de ontwikkeling van de universiteit aan het eind van de
+zeventiende en in de achttiende eeuw. Er stonden gemiddeld twee- à
+driehonderd studenten ingeschreven. Wetenschappelijk lichtpunt in de
+tweede helft van de achttiende eeuw was echter Petrus Camper
+<https://nl.wikipedia.org/wiki/Petrus_Camper>. Als patholoog-anatoom
+<https://nl.wikipedia.org/wiki/Patholoog-anatoom>, veepestbestrijder en
+oprichter van de eerste chirurgische polikliniek
+<https://nl.wikipedia.org/wiki/Polikliniek> was hij beroemd tot ver
+buiten de stadsgrenzen.
+
+
+      19e eeuw[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=4>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=4>]
+
+Ten gevolge van de Franse inlijving werd de Groningse universiteit in
+1812 <https://nl.wikipedia.org/wiki/1812> onderdeel van de Keizerlijke
+Universiteit van Parijs <https://nl.wikipedia.org/wiki/Parijs>.^[11]
+<#cite_note-11> Daarmee kwam Groningen goed weg. Eigenlijk wilde het
+Franse bestuur maar één universiteit in Nederland
+<https://nl.wikipedia.org/wiki/Nederland> handhaven, en dat zou Leiden
+<https://nl.wikipedia.org/wiki/Universiteit_Leiden> zijn. Een Franse
+inspectiecommissie bleek echter gecharmeerd van de stad en concludeerde
+dat de afstand tot Leiden vanuit het noorden wel erg groot was. Anders
+dan Utrecht <https://nl.wikipedia.org/wiki/Universiteit_Utrecht>,
+Franeker <https://nl.wikipedia.org/wiki/Universiteit_van_Franeker> en
+Harderwijk <https://nl.wikipedia.org/wiki/Universiteit_van_Harderwijk>
+bleef Groningen daarom open als universiteit.
+
+In 1815 (totstandkoming van het Koninkrijk der Nederlanden
+<https://nl.wikipedia.org/wiki/Koninkrijk_der_Nederlanden>) werd het een
+Rijkshogeschool. In 1850 kwam een nieuw Academiegebouw gereed dat de
+oude kloostergebouwen verving. Op 5 juni 1872 werd Aletta Jacobs
+<https://nl.wikipedia.org/wiki/Aletta_Jacobs> er als eerste vrouw
+toegelaten. In de loop van de 19e eeuw liep het aantal studenten echter
+steeds verder terug en in 1876 gingen er stemmen op in Den Haag om de
+universiteit maar op te heffen. Uiteindelijk werd echter besloten om de
+universiteit open te houden. De Wet op het Hoger Onderwijs in 1876
+verbeterde de positie van de universiteit ingrijpend. De universiteit
+kreeg de naam Rijksuniversiteit Groningen, er werd behalve in het Latijn
+<https://nl.wikipedia.org/wiki/Latijn> ook in het Nederlands gedoceerd
+en de universiteit kreeg naast een onderwijs- nu ook een
+onderzoekstaak.^[12] <#cite_note-12>
+
+
+      20e en 21e eeuw[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=5>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=5>]
+
+<https://commons.wikimedia.org/wiki/File:RijksUniversiteit_Groningen_-_University_of_Groningen.jpg>
+
+<https://nl.wikipedia.org/wiki/Bestand:RijksUniversiteit_Groningen_-_University_of_Groningen.jpg>
+Academiegebouw
+<https://nl.wikipedia.org/wiki/Academiegebouw_(Groningen)> (opgeleverd
+1909, foto 2004)
+
+De eerste decennia van de twintigste eeuw groeide het aantal faculteiten
+en opleidingen gestaag, en het aantal studenten explosief. Nadat het
+Academiegebouw in 1906 was afgebrand en de discussie over een nieuw
+Academiegebouw startte, gingen er in Den Haag echter toch weer stemmen
+op om de universiteit maar te sluiten omdat er voldoende andere
+universiteiten in het land waren. Uiteindelijk kwamen de gelden er toch.
+Het nieuwe gebouw werd, om de politici in Den Haag de wind uit de zeilen
+te nemen, in een hoog tempo gebouwd. In 1909 werd dit huidige
+Academiegebouw voltooid.
+
+Bij het 300-jarig bestaan in 1914 stonden 611 studenten ingeschreven. In
+1925 telde de universiteit, nadat er in 1906 brand was uitgebroken en er
+een renovatie en uitbreiding van het aantal gebouwen had plaatsgevonden,
+voor het eerst duizend studenten. Voor de brand stonden minder dan 500
+studenten ingeschreven. In 1953 kwam de RUG internationaal in het nieuws
+doordat 'haar' professor Frits Zernike
+<https://nl.wikipedia.org/wiki/Frits_Zernike> de Nobelprijs voor de
+Natuurkunde
+<https://nl.wikipedia.org/wiki/Nobelprijs_voor_de_Natuurkunde> won voor
+zijn uitvinding van de fasecontrastmicroscoop
+<https://nl.wikipedia.org/wiki/Fasecontrastmicroscoop>.^[13]
+<#cite_note-13> Na een terugval in de crisisjaren en met name de Tweede
+Wereldoorlog (toen de universiteit in tegenstelling tot bijvoorbeeld
+Leiden wel openbleef^[noot 1] <#cite_note-15> ), groeide het
+studentenaantal vanaf 1945 in hoog tempo tot 20.000 in 1994.
+
+In de jaren zeventig werkte de Rijksuniversiteit Groningen met enige
+tegenzin mee aan een universitair experiment. Onder leiding van de
+vroegere rector magnificus Prof. J. Snijders
+<https://nl.wikipedia.org/wiki/Jan_Snijders_(psycholoog)> werd in 1976
+in Leeuwarden <https://nl.wikipedia.org/wiki/Leeuwarden_(stad)> gestart
+met een Friese <https://nl.wikipedia.org/wiki/Friesland> dependance van
+de Rijksuniversiteit Groningen. Hier werd, in samenwerking met de
+Agogische Academie Fryslân (AAF), het Sociaal Hoger Onderwijs gevormd.
+Doel was een samenwerking te creëren tussen hbo en universiteit, om een
+interdisciplinaire sociaal wetenschappelijke aanpak van het vakgebied
+'welzijnsvraagstukken' te vormen. Friesland had daarmee 165 jaar na de
+opheffing van Academie in Franeker
+<https://nl.wikipedia.org/wiki/Universiteit_van_Franeker> weer
+universitair onderwijs op eigen grondgebied.
+
+In 1985 kwam er door de vele problemen die er met de structuur waren en
+door bezuinigingen in het hoger onderwijs een eind aan deze opleiding.
+De AAF ging op in de Noordelijke Hogeschool Leeuwarden
+<https://nl.wikipedia.org/wiki/Noordelijke_Hogeschool_Leeuwarden>. Wel
+wordt nog altijd het eerste jaar van de Opleiding Nederlands Recht in
+Leeuwarden onderwezen.^[15] <#cite_note-16>
+
+<https://commons.wikimedia.org/wiki/File:RuG_Linnaeusborg_panorama.JPG>
+<https://nl.wikipedia.org/wiki/Bestand:RuG_Linnaeusborg_panorama.JPG>
+De Linnaeusborg op het Zernikecomplex
+<https://nl.wikipedia.org/wiki/Zernikecomplex> (foto augustus 2012)
+
+In 2014 werd het 80e lustrum <https://nl.wikipedia.org/wiki/Lustrum>
+gedurende een maand (15 mei tot 15 juni) gevierd met diverse
+activiteiten in en rond de stad Groningen, met als thema "For Infinity
+<https://nl.wikipedia.org/wiki/Oneindigheid>" (4∞ {\displaystyle \infty
+} \infty ).^[16] <#cite_note-17> In het kader van dit lustrum werd onder
+anderen de speelfilm "For infinity - The Movie" uitgebracht.^[17]
+<#cite_note-18>
+
+Begin 2015 maakte de Rijksuniversiteit Groningen bekend dat men in
+Leeuwarden een faculteit zal vestigen, onder de naam Campus Fryslân. In
+deze elfde faculteit wordt de in 2011 opgerichte University Campus
+Fryslân (UCF) geïntegreerd.^[18] <#cite_note-19> Het doel van de campus
+is het aanbieden van brede bacheloropleidingen, masteropleidingen en
+promotie-opleidingen, waarbij de focus ligt op voor Fryslân relevante
+thema's zoals toerisme en zuivel.^[19] <#cite_note-20>
+
+In 2016 ontving de Drents-Groningse chemicus Ben Feringa
+<https://nl.wikipedia.org/wiki/Ben_Feringa> de Nobelprijs
+<https://nl.wikipedia.org/wiki/Nobelprijs> voor zijn werk aan
+moleculaire motoren.
+
+
+    Organisatie[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=6>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=6>]
+
+<https://commons.wikimedia.org/wiki/File:Oude_Boteringestraat_44_-_18635.jpg>
+
+<https://nl.wikipedia.org/wiki/Bestand:Oude_Boteringestraat_44_-_18635.jpg>
+Bestuursgebouw, Oude Boteringestraat
+<https://nl.wikipedia.org/wiki/Oude_Boteringestraat> 44
+
+De RUG telt circa 6000 medewerkers, waarvan ongeveer 3500
+wetenschappelijk personeel is. Hiermee is de RUG na de Universiteit van
+Amsterdam <https://nl.wikipedia.org/wiki/Universiteit_van_Amsterdam> en
+de Universiteit Utrecht
+<https://nl.wikipedia.org/wiki/Universiteit_Utrecht> qua grootte de
+derde universiteit van Nederland en na het Universitair Medisch Centrum
+Groningen
+<https://nl.wikipedia.org/wiki/Universitair_Medisch_Centrum_Groningen>
+(UMCG) de grootste werkgever in de provincie Groningen.
+
+De hoofdvestiging van de universiteit in Groningen is het Academiegebouw
+<https://nl.wikipedia.org/wiki/Academiegebouw_(Groningen)> aan de
+Broerstraat <https://nl.wikipedia.org/wiki/Broerstraat_(Groningen)>.
+Tegenover het Academiegebouw staat de in 2016/17 geheel verbouwde
+Universiteitsbibliotheek
+<https://nl.wikipedia.org/wiki/Universiteitsbibliotheek_Groningen>. Het
+bestuursgebouw staat in de Oude Boteringestraat
+<https://nl.wikipedia.org/wiki/Oude_Boteringestraat>. De meeste
+faculteiten zijn gevestigd in de binnenstad van Groningen of daar
+vlakbij. De faculteiten Science and Engineering (voorheen Wiskunde en
+Natuurwetenschappen), Economie en Bedrijfskunde en Ruimtelijke
+Wetenschappen zijn, evenals het KVI - Center for Advanced Radiation
+Technology
+<https://nl.wikipedia.org/wiki/Kernfysisch_Versneller_Instituut>
+gevestigd op het Zernikecomplex
+<https://nl.wikipedia.org/wiki/Zernikecomplex> (ook Zernike Campus
+Groningen genoemd), dat gelegen is aan de noordkant van de stad.
+Daarnaast heeft de RUG ook een vestiging in Leeuwarden
+(Rijksuniversiteit Groningen/Campus Fryslân^[20] <#cite_note-21> ).
+Plannen om een "branch campus" op te richten in het Chinese Yantai
+<https://nl.wikipedia.org/wiki/Yantai> zijn in januari 2018
+afgeblazen.^[21] <#cite_note-22>
+
+Het Universiteitsmuseum
+<https://nl.wikipedia.org/wiki/Universiteitsmuseum_(Groningen)> stelt
+tentoonstellingen samen uit de uitgebreide collectie van de
+universiteit. Deze omvat onder andere de collecties van het voormalige
+Anatomisch Museum,^[22] <#cite_note-23> het voormalig Volkenkundig
+Museum Gerardus van der Leeuw^[23] <#cite_note-24> en het voormalige
+natuurmuseum <https://nl.wikipedia.org/wiki/Natuurmuseum_Groningen>.
+
+De Rijksuniversiteit Groningen is vertegenwoordigd in de Stichting
+Academisch Erfgoed
+<https://nl.wikipedia.org/wiki/Stichting_Academisch_Erfgoed>, een
+stichting die als doel heeft om universitaire collecties en
+cultuurschatten in stand te houden.^[24] <#cite_note-25>
+
+
+      Faculteiten[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=7>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=7>]
+
+<https://commons.wikimedia.org/wiki/File:20090628_MedFac_UMCG_Groningen_NL.jpg>
+
+<https://nl.wikipedia.org/wiki/Bestand:20090628_MedFac_UMCG_Groningen_NL.jpg>
+Medische Faculteit (foto 2009)
+
+In 2018 kende de RUG elf faculteiten
+<https://nl.wikipedia.org/wiki/Faculteit_(onderwijs)>:
+
+  * Faculteit Economie en Bedrijfskunde^[25] <#cite_note-26> (Ontstaan
+    in 2007 door een fusie van de Faculteit der Economische
+    Wetenschappen (Economie
+    <https://nl.wikipedia.org/wiki/Economie_(wetenschap)>) en de
+    Faculteit Bedrijfskunde
+    <https://nl.wikipedia.org/wiki/Bedrijfskunde>^[26] <#cite_note-27>
+    )Opleidingen: bedrijfskunde, international business, econometrie
+    <https://nl.wikipedia.org/wiki/Econometrie>, economie
+    <https://nl.wikipedia.org/wiki/Economie> en bedrijfseconomie
+    <https://nl.wikipedia.org/wiki/Bedrijfseconomie>, accountancy
+    <https://nl.wikipedia.org/wiki/Accountancy> en controlling
+    <https://nl.wikipedia.org/wiki/Controlling>, business
+    administration, MKB <https://nl.wikipedia.org/wiki/MKB> en
+    ondernemerschap <https://nl.wikipedia.org/wiki/Ondernemerschap>,
+    diverse double degree opleidingen.^[27] <#cite_note-28>
+  * Faculteit Godgeleerdheid en Godsdienstwetenschap (Theologie
+    <https://nl.wikipedia.org/wiki/Theologie> en Godsdienstwetenschap
+    <https://nl.wikipedia.org/wiki/Godsdienstwetenschap>)^[28]
+    <#cite_note-29>
+  * Faculteit Gedrags- en Maatschappijwetenschappen (Onderwijskunde
+    <https://nl.wikipedia.org/wiki/Onderwijskunde>, Pedagogische
+    wetenschappen <https://nl.wikipedia.org/wiki/Pedagogiek>,
+    Psychologie <https://nl.wikipedia.org/wiki/Psychologie> en
+    Sociologie <https://nl.wikipedia.org/wiki/Sociologie>)^[29]
+    <#cite_note-30>
+  * Faculteit der Letteren (Letteren
+    <https://nl.wikipedia.org/wiki/Letteren_(wetenschap)>,
+    Taalwetenschap <https://nl.wikipedia.org/wiki/Taalkunde>,
+    Cultuurwetenschappen
+    <https://nl.wikipedia.org/wiki/Cultuurwetenschappen>, Geschiedenis
+    <https://nl.wikipedia.org/wiki/Geschiedenis>, Journalistiek
+    <https://nl.wikipedia.org/wiki/Journalistiek>, Archeologie
+    <https://nl.wikipedia.org/wiki/Archeologie>, Communicatiewetenschap
+    <https://nl.wikipedia.org/wiki/Communicatiewetenschap>,
+    Theaterwetenschappen
+    <https://nl.wikipedia.org/wiki/Theaterwetenschappen>,
+    Kunstgeschiedenis <https://nl.wikipedia.org/wiki/Kunstgeschiedenis>,
+    Internationale betrekkingen
+    <https://nl.wikipedia.org/wiki/Internationale_betrekkingen>)^[30]
+    <#cite_note-31>
+  * Faculteit Medische Wetenschappen (Bewegingswetenschappen
+    <https://nl.wikipedia.org/wiki/Bewegingswetenschappen>, Geneeskunde
+    <https://nl.wikipedia.org/wiki/Geneeskunde>, Tandheelkunde
+    <https://nl.wikipedia.org/wiki/Tandheelkunde>, onderdeel
+    Universitair Medisch Centrum Groningen
+    <https://nl.wikipedia.org/wiki/Universitair_Medisch_Centrum_Groningen>)^[31]
+    <#cite_note-32>
+  * Faculteit Rechtsgeleerdheid (Rechtsgeleerdheid
+    <https://nl.wikipedia.org/wiki/Rechtsgeleerdheid>, fiscaal recht
+    <https://nl.wikipedia.org/wiki/Fiscaal_recht>, Internationaal
+    <https://nl.wikipedia.org/wiki/Internationaal_recht>- en Europees
+    recht <https://nl.wikipedia.org/wiki/Europees_recht>, IT-recht
+    <https://nl.wikipedia.org/w/index.php?title=IT-recht&action=edit&redlink=1>,
+    juridische bestuurskunde
+    <https://nl.wikipedia.org/w/index.php?title=Juridische_bestuurskunde&action=edit&redlink=1>,
+    Nederlands recht <https://nl.wikipedia.org/wiki/Nederlands_recht>,
+    notarieel recht
+    <https://nl.wikipedia.org/wiki/Notarieel_recht>)^[32] <#cite_note-33>
+  * Faculteit Ruimtelijke Wetenschappen (Ruimtelijke Wetenschappen
+    <https://nl.wikipedia.org/wiki/Ruimtelijke_Wetenschappen>, Sociale
+    Geografie <https://nl.wikipedia.org/wiki/Sociale_Geografie> en
+    Planologie <https://nl.wikipedia.org/wiki/Planologie>, Technische
+    planologie
+    <https://nl.wikipedia.org/w/index.php?title=Technische_planologie&action=edit&redlink=1>)^[33]
+    <#cite_note-34>
+  * Faculteit Wijsbegeerte (Filosofie
+    <https://nl.wikipedia.org/wiki/Filosofie>, vroeger de Centrale
+    Interfaculteit genoemd)^[34] <#cite_note-35>
+  * Faculty of Science and Engineering (tot 2016 de faculteit Wiskunde
+    en Natuurwetenschappen) (Wiskunde
+    <https://nl.wikipedia.org/wiki/Wiskunde>, Informatica
+    <https://nl.wikipedia.org/wiki/Informatica>, Biologie
+    <https://nl.wikipedia.org/wiki/Biologie>, Farmacie
+    <https://nl.wikipedia.org/wiki/Farmacie>, Natuurkunde
+    <https://nl.wikipedia.org/wiki/Natuurkunde>, Technische natuurkunde
+    <https://nl.wikipedia.org/wiki/Technische_natuurkunde>, Technische
+    Bedrijfskunde
+    <https://nl.wikipedia.org/wiki/Technische_Bedrijfskunde>, Scheikunde
+    <https://nl.wikipedia.org/wiki/Scheikunde>, Scheikundige technologie
+    <https://nl.wikipedia.org/wiki/Chemische_technologie>, Energie- en
+    Milieuwetenschappen
+    <https://nl.wikipedia.org/wiki/Milieuwetenschappen>, Kunstmatige
+    intelligentie
+    <https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie> en
+    Sterrenkunde <https://nl.wikipedia.org/wiki/Astronomie>)^[35]
+    <#cite_note-36>
+  * University College Groningen
+    <https://nl.wikipedia.org/w/index.php?title=University_College_Groningen&action=edit&redlink=1>^[36]
+    <#cite_note-37>
+  * Campus Fryslân <https://nl.wikipedia.org/wiki/Campus_Frysl%C3%A2n>
+    in de stad Leeuwarden
+    <https://nl.wikipedia.org/wiki/Leeuwarden_(stad)> (Friesland
+    <https://nl.wikipedia.org/wiki/Friesland>) fungeert als elfde
+    faculteit <https://nl.wikipedia.org/wiki/Faculteit_(onderwijs)> van
+    de Rijksuniversiteit Groningen, waarin de in 2011 opgerichte
+    `University Campus Fryslân` (UCF) werd geïntegreerd.
+
+
+      Internationale samenwerking[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=8>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=8>]
+
+De RUG wil haar positie in de top van het Europese en mondiale hoger
+onderwijs verder versterken. Daarom gaat de RUG gericht strategische
+allianties <https://nl.wikipedia.org/wiki/Allianties> aan met
+collega-instellingen waarvan onderzoeksprogramma's en/of opleidingen
+goed aansluiten bij het Groningse aanbod en die van een vergelijkbaar
+niveau zijn.^[37] <#cite_note-38> Ook levert de RUG een bijdrage aan de
+verdere ontwikkeling van het wetenschappelijk onderwijs in
+ontwikkelingslanden <https://nl.wikipedia.org/wiki/Ontwikkelingsland> en
+andere achterstandsgebieden.^[38] <#cite_note-39> De belangrijkste
+buitenlandse samenwerkingspartners van de RUG zijn:
+
+  * Universiteiten die lid zijn van de Coimbragroep
+    <https://nl.wikipedia.org/wiki/Coimbragroep>,^[39] <#cite_note-40>
+    European University Association
+    <https://nl.wikipedia.org/wiki/European_University_Association>,^[40] <#cite_note-41>
+    Asea Uninet^[41] <#cite_note-42> en APAIE.^[42] <#cite_note-43>
+  * De strategische partners:^[43] <#cite_note-44> Universiteit van
+    Uppsala <https://nl.wikipedia.org/wiki/Universiteit_van_Uppsala>
+    (Zweden), Universiteit Gent
+    <https://nl.wikipedia.org/wiki/Universiteit_Gent>(België),
+    Georg-August-Universität Göttingen
+    <https://nl.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen>
+    (Duitsland),^[44] <#cite_note-45> Universitas Gadja Mada,
+    Universitas Indonesia
+    <https://nl.wikipedia.org/wiki/Universitas_Indonesia>, Institut
+    Teknologi Bandung
+    <https://nl.wikipedia.org/wiki/Institut_Teknologi_Bandung>
+    (Indonesië), Tsinghua Universiteit
+    <https://nl.wikipedia.org/wiki/Tsinghua_Universiteit>, Universiteit
+    van Peking <https://nl.wikipedia.org/wiki/Universiteit_van_Peking>,
+    Fudan University <https://nl.wikipedia.org/wiki/Fudan_University>
+    (China), Osaka University
+    <https://nl.wikipedia.org/wiki/Universiteit_van_Osaka> (Japan) en
+    UNAM <https://nl.wikipedia.org/wiki/UNAM>(Mexico).
+  * Diverse universiteiten in Oost-Europa
+  * Samenwerking met diverse universiteiten in het kader van
+    Socrates/Erasmus.^[45] <#cite_note-46>
+  * de Carl von Ossietzky Universität
+    <https://nl.wikipedia.org/wiki/Carl_von_Ossietzky_Universiteit>
+    Oldenburg <https://nl.wikipedia.org/wiki/Oldenburg_(Nedersaksen)>,
+    de Universität Bremen
+    <https://nl.wikipedia.org/wiki/Universiteit_Bremen> en in toenemende
+    mate andere universiteiten in de Noord-Duitse regio (m.n. Hamburg
+    <https://nl.wikipedia.org/wiki/Hamburg> en Rostock
+    <https://nl.wikipedia.org/wiki/Rostock_(stad)>)
+  * Universiteiten in ontwikkelingslanden: (Universiteit van Ouagadougou
+    <https://nl.wikipedia.org/wiki/Universiteit_van_Ouagadougou> in
+    Burkina Faso <https://nl.wikipedia.org/wiki/Burkina_Faso>, Eduardo
+    Mondlane Universiteit
+    <https://nl.wikipedia.org/w/index.php?title=Eduardo_Mondlane_Universiteit&action=edit&redlink=1>
+    in Mozambique <https://nl.wikipedia.org/wiki/Mozambique>, Can Tho
+    Universiteit
+    <https://nl.wikipedia.org/w/index.php?title=Can_Tho_Universiteit&action=edit&redlink=1>
+    in Vietnam <https://nl.wikipedia.org/wiki/Vietnam>, University of
+    the North
+    <https://nl.wikipedia.org/w/index.php?title=University_of_Limpopo&action=edit&redlink=1>
+    in Zuid-Afrika, Universiteit van Asmara
+    <https://nl.wikipedia.org/wiki/Asmara> in Eritrea
+    <https://nl.wikipedia.org/wiki/Eritrea>)
+
+
+    Onderzoek[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=9>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=9>]
+
+<https://commons.wikimedia.org/wiki/File:De_Harmonie_(Groningen).jpg>
+<https://nl.wikipedia.org/wiki/Bestand:De_Harmonie_(Groningen).jpg>
+De Harmonie <https://nl.wikipedia.org/wiki/De_Harmonie_(Groningen)>
+(foto 2009)
+<https://commons.wikimedia.org/wiki/File:RuG-Groningen-TFL.jpg>
+<https://nl.wikipedia.org/wiki/Bestand:RuG-Groningen-TFL.jpg>
+Technisch Fysisch Laboratorium (foto 2010)
+<https://commons.wikimedia.org/wiki/File:Zernikeborg_(Zernikecomplex).JPG>
+<https://nl.wikipedia.org/wiki/Bestand:Zernikeborg_(Zernikecomplex).JPG>
+Het Donald Smits Centrum voor Informatie Technologie (ICT) op het
+Zernikecomplex <https://nl.wikipedia.org/wiki/Zernikecomplex>
+(opgeleverd 2002, foto 2005)
+<https://commons.wikimedia.org/wiki/File:Bernoulliborg.jpg>
+<https://nl.wikipedia.org/wiki/Bestand:Bernoulliborg.jpg>
+Bernoulliborg <https://nl.wikipedia.org/wiki/Bernoulliborg> (oplevering
+en foto 2007)
+<https://commons.wikimedia.org/wiki/File:WSN-gebouw_(Zernikecomplex).JPG>
+<https://nl.wikipedia.org/wiki/Bestand:WSN-gebouw_(Zernikecomplex).JPG>
+Duisenberg building (foto 2005)
+<https://commons.wikimedia.org/wiki/File:Zernike-gebouw_(Zernikecomplex).JPG>
+
+<https://nl.wikipedia.org/wiki/Bestand:Zernike-gebouw_(Zernikecomplex).JPG>
+Kapteynborg (foto 2005)
+<https://commons.wikimedia.org/wiki/File:RuG_KVI_panorama.JPG>
+<https://nl.wikipedia.org/wiki/Bestand:RuG_KVI_panorama.JPG>
+KVI-CART Onderzoeksinstituut
+
+Bij de Rijksuniversiteit Groningen wordt fundamenteel wetenschappelijk
+onderzoek verricht dat soms wordt toegepast voor het oplossen van
+maatschappelijke en individuele vraagstukken. Universitaire speerpunten
+daarbij zijn energie <https://nl.wikipedia.org/wiki/Energie>, gezond
+ouder worden <https://nl.wikipedia.org/wiki/Gezondheid> en de duurzame
+samenleving <https://nl.wikipedia.org/wiki/Duurzame_ontwikkeling>.
+Faculteiten hebben daarnaast eigen speerpunten. Bij verschillende
+faculteiten worden studenten actief betrokken bij het onderzoek. Op die
+manier hoopt men deze studenten te prikkelen om hun grenzen te
+verleggen.^[46] <#cite_note-47>
+
+Een deel van de onderzoeksgroepen van de RUG is multidisciplinair
+<https://nl.wikipedia.org/wiki/Multidisciplinair> samengesteld^[47]
+<#cite_note-48> ^[48] <#cite_note-49> omdat ontwikkelingen in de
+wetenschap vaak ontstaan op de raakvlakken van verschillende
+vakgebieden. Ook neemt de RUG deel aan nationale en internationale
+onderzoeksprogramma's.
+
+In 2015 verschenen er 6342 Groningse onderzoekspublicaties (waarvan 501
+proefschriften <https://nl.wikipedia.org/wiki/Proefschrift>).^[49]
+<#cite_note-50> In 2016 zijn 666 promovendi toegelaten tot een
+promotietraject (tegen 591 in 2015). Bijna 50% van de ingestroomde
+promovendi komt uit het buitenland. In 2016 vonden in totaal 535
+promoties plaats, waarvan 21 cum laude
+<https://nl.wikipedia.org/wiki/Cum_laude>. De groei heeft daarmee
+doorgezet, na het doorbreken van de 500-grens in 2015.^[50] <#cite_note-51>
+
+
+      Onderzoeksinstituten[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=10>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=10>]
+
+*Geestewetenschappen en sociale wetenschappen*
+
+  * Center for Language and Cognition Groningen (CLCG)
+  * Globalisation Studies Groningen (GSG)
+  * Centre for Religious Studies (CRS)
+  * Groningen Institute of Archeology (GIA)
+  * Groningen Instituut voor onderwijskundig onderzoek (GION)
+  * Groningen Research Institute of Philosophy (GRIPH)
+  * Groningen Research Institute for the Study of Culture (ICOG)
+  * Heijmans Instituut (voor psychologisch onderzoek)
+  * Nieuwenhuis Instituut (Pedagogie and Onderwijs Wetenschappen)
+  * Sociologisch Instituut Groningen (onderdeel van Interuniversity
+    Center for Social Science Theory and Methodology (ICS))
+  * Urban and Regional Studies Institute (URSI)
+  * Centre for Law, Administration and Society (CRBS)
+  * Centrum voor Openbare Orde en Veiligheid
+  * Global Health Law Groningen Research Centre (GHLG)
+  * Groningen Centre for Law and Governance Onderzoekscentra Gronings
+    Centrum voor Aansprakelijkheid en Schade (GCAS)
+  * Gronings Centrum voor Kinderrechten in de Gezondheidszorg
+  * Groningen Centre for European Financial Services Law (GCEFSL)
+  * Groningen Centre of Energy Law (GCEL)
+  * Groningen Centre for Law and Governance (GCL)
+  * Instituut voor Ondernemingsrecht (IVO)
+  * Notarieel Instituut Groningen
+  * Economics, Econometrics and Finance (EEF)
+  * Global Economics and Management (GEM)
+  * Human Resource Management & Organisational Behaviour (HRM-OB)
+  * Innovation & Organization (IO)
+  * Marketing
+  * Operations Management & Operations Research (OPERA)
+  * Nederlands Interdisciplinair Demografisch Instituut
+    <https://nl.wikipedia.org/wiki/Nederlands_Interdisciplinair_Demografisch_Instituut>
+    (NIDI)
+
+*Biomedische en natuurwetenschappen*
+
+  * Behavioral and Cognitive Sciences (BCN) / UMCG
+  * Biomedical engineering, Materials science and Application (BMSA)
+  * Center for Behavior and Neurosciences (CBN)
+  * Cancer Research Center Groningen (CRCG) / UMCG
+  * Graduate School for Drug Exploration (GUIDE) / UMCG
+  * Groningen Biomolecular Sciences and Biotechnology (GBB)
+  * Groningen Research Institute of Pharmacy (GRIP)
+  * Northern Center for Healthcare Research (NCH)
+  * Artificial Intelligence and Cognitive Engineering (ALICE)
+  * Energy and Sustainability Research Institute Groningen (ESRIG)
+  * Centre for Theoretical Physics
+  * Centre for Synthetic Biology
+  * Centre for Systems Biology
+  * Centre for Systems Chemistry
+  * ENgineering and TEchnology institute Groningen (ENTEG)
+  * Instituut voor Didactiek en Onderwijsontwikkeling (IDO)
+  * Institute of Mathematics and Computing Science (IWI)
+  * Information Technology for Healthy Aging and E-Health Lab (ITHAL)
+  * Johann Bernoulli Instituut for Wiskunde en Computerwetenschap (JBI)
+  * Kapteyn Instituut <https://nl.wikipedia.org/wiki/Kapteyn_Instituut>
+    (Sterrenkunde <https://nl.wikipedia.org/wiki/Sterrenkunde> en
+    Astronomie <https://nl.wikipedia.org/wiki/Astronomie>)
+  * Center for Advanced Radiation Technology (KVI-CART)
+  * Stratingh Institute for Chemistry
+  * Van Swinderen Institute for Particle Physics and Gravity
+  * Zernike Institute for Advanced Materials
+    <https://nl.wikipedia.org/w/index.php?title=Zernike_Institute_for_Advanced_Materials&action=edit&redlink=1>
+    (ZIAM)^[51] <#cite_note-52> 
+
+
+    Onderwijs[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=11>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=11>]
+
+
+      Studies en studentenpopulatie[bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=12>|
+      brontekst bewerken
+      <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=12>]
+
+<https://commons.wikimedia.org/wiki/File:StudentenRUG.jpg>
+<https://nl.wikipedia.org/wiki/Bestand:StudentenRUG.jpg>
+Groei van de studentenbevolking aan het begin van de 21e eeuw
+
+De universiteit biedt 48 bacheloropleidingen
+<https://nl.wikipedia.org/wiki/Bachelor> (waarvan 29 in het Engels) en
+167 masteropleidingen <https://nl.wikipedia.org/wiki/Master_(graad)>
+(waarvan 126 in het Engels) aan.^[52] <#cite_note-53>
+
+Er studeerden per 1 oktober 2016 28.756 studenten aan de RUG, een
+stijging van 2,5% ten opzichte van 2015.^[53] <#cite_note-54> Op 1
+september 2017 was dit aantal verder gestegen tot 30.472 studenten. Het
+aantal nieuwe inschrijvingen steeg daarmee met 9,2% ten opzichte van het
+jaar daarvoor. Voor de propedeusefase hadden zich per oktober 2017 5429
+(2016: 4972) nieuwe studenten ingeschreven (waarvan 1512 uit het
+buitenland), voor de masterfase kwamen 822 studenten van buiten de RUG.
+Het totaal aantal nieuwe inschrijvingen is 7110 (2016: 6513), inclusief
+de schakelprogramma’s. De 5817 buitenlandse studenten komen behalve uit
+Duitsland (1964), Groot-Brittannië (423) en China (317) uit zo'n 120
+andere landen.^[54] <#cite_note-55> ^[55] <#cite_note-56> ^[56]
+<#cite_note-57>
+
+
+    Externe beoordelingen[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=13>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=13>]
+
+De RUG streeft er naar haar internationale positie tot uiting te laten
+komen in de rangschikking van internationale universiteiten. Volgens de
+universiteit kan, uitgaande van de meest toonaangevende rangschikkingen,
+de Rijksuniversiteit Groningen, op het gebied van onderzoek, gerekend
+worden tot de wereldwijde top 100. Er zijn verschillende instanties die
+universiteiten wereldwijd met elkaar vergelijken op basis van diverse
+criteria. Zo is een veel aangehaalde rangschikking de Times Higher
+Education World University Rankings
+<https://nl.wikipedia.org/wiki/Times_Higher_Education_World_University_Rankings>
+(THE), die de RUG in 2014 wereldwijd op plaats 117 zette en in 2015 op
+plaats 74.^[57] <#cite_note-58> ^[58] <#cite_note-59> Volgens de THE
+behoren de onderzoeksgroepen van scheikunde, ecologie/biologie en
+materiaaltechnologie/nanowetenschap tot de top 3 van de Europese
+onderzoeksuniversiteiten en wereldwijd tot de top 10. Andere belangrijke
+onderzoeksgroepen zijn: moleculaire biologie, medische wetenschappen,
+neurowetenschappen, marketing, sociologie, filosofie, theologie,
+archeologie, linguïstiek en culturele wetenschappen. Ook in een aantal
+andere toonaangevende internationale ranglijsten staat de RUG vaak in de
+top 100 van beste universiteiten.^[59] <#cite_note-60>
+
+Ook bekend is de Academic Ranking of World Universities
+<https://nl.wikipedia.org/wiki/Academic_Ranking_of_World_Universities>,
+een mondiale Top 500 die jaarlijks gepubliceerd wordt door de Shanghai
+Jiao Tong Universiteit
+<https://nl.wikipedia.org/wiki/Shanghai_Jiao_Tong_Universiteit>. De RUG
+stond in 2014 op plaats 82 en in 2015 op plek 75. In 2017 is de RUG in
+deze ranking gestegen naar positie 59 wereldwijd.^[60] <#cite_note-61>
+^[61] <#cite_note-62> ^[62] <#cite_note-63> Op verschillende andere
+ranglijsten, waarbij uiteenlopende criteria als duurzaamheid,
+carrièreperspectief of aantrekkelijkheid voor studenten zijn gebruikt,
+komt Groningen in de top 100 of 200 voor.^[63] <#cite_note-64> ^[64]
+<#cite_note-65> ^[65] <#cite_note-66> ^[66] <#cite_note-67> ^[67]
+<#cite_note-68> ^[68] <#cite_note-69> ^[69] <#cite_note-70> ^[70]
+<#cite_note-71> ^[71] <#cite_note-72> ^[72] <#cite_note-73>
+
+Binnen Nederland wordt Groningen onder meer door de volgende ranglijsten
+beoordeeld:
+
+  * In de Keuzegids Universiteiten staat de Rijksuniversiteit Groningen
+    in de categorie Brede Klassieke Universiteiten op de tweede plaats
+    van de zes.^[73] <#cite_note-74> Tot de "topopleidingen" van
+    Nederland (76 punten of meer) behoren de opleidingen Archeologie
+    <https://nl.wikipedia.org/wiki/Archeologie> (78 punten),
+    Religiewetenschappen
+    <https://nl.wikipedia.org/wiki/Religiewetenschappen> (76 punten),
+    Technische natuurkunde
+    <https://nl.wikipedia.org/wiki/Technische_natuurkunde> (76 punten),
+    Theologie <https://nl.wikipedia.org/wiki/Theologie> (88 punten),
+    Wijsbegeerte <https://nl.wikipedia.org/wiki/Wijsbegeerte> (76
+    punten) en Wiskunde <https://nl.wikipedia.org/wiki/Wiskunde> (86
+    punten). Tien Groningse opleidingen (Archeologie, Bedrijfskunde
+    <https://nl.wikipedia.org/wiki/Bedrijfskunde> (bij
+    voltijdsuniversiteiten), Bewegingswetenschappen
+    <https://nl.wikipedia.org/wiki/Bewegingswetenschappen>, Engelse taal
+    en cultuur (English Language and Culture), Farmacie
+    <https://nl.wikipedia.org/wiki/Farmacie>, Kunstgeschiedenis
+    <https://nl.wikipedia.org/wiki/Kunstgeschiedenis>,
+    Religiewetenschappen, Technische Planologie
+    <https://nl.wikipedia.org/wiki/Planologie>, Theologie
+    <https://nl.wikipedia.org/wiki/Theologie> en Wiskunde) werden
+    beoordeeld als de beste in hun categorie.^[74] <#cite_note-75> Voor
+    de master opleidingen staat de Rijksuniversiteit Groningen in de
+    categorie Brede Klassieke Universiteiten op de eerste plaats.^[75]
+    <#cite_note-76>
+  * In 2014 verrichtte het onafhankelijke Schotse onderzoeksbureau
+    Biggar Economics, dat gespecialiseerd is in het duiden van de
+    economische impact van kennis- en onderzoeksinstellingen
+    <https://nl.wikipedia.org/wiki/Onderzoeksinstelling>, in opdracht
+    van RUG en UMCG onderzoek naar de economische impact van RUG en
+    UMCG. Het opgeleverde rapport concludeerde dat de Rijksuniversiteit
+    Groningen tezamen met het Universitair Medisch Centrum Groningen
+    <https://nl.wikipedia.org/wiki/Universitair_Medisch_Centrum_Groningen>
+    (UMCG) zorgt voor ruim 12.500 fulltime
+    <https://nl.wikipedia.org/wiki/Fulltime> banen en een jaaromzet van
+    €1,4 miljard <https://nl.wikipedia.org/wiki/Miljard>. De impact van
+    RUG en UMCG op de economie van Noord-Nederland
+    <https://nl.wikipedia.org/wiki/Noord-Nederland> en Nederland als
+    totaal is echter veel groter. Gezamenlijk zijn RUG en UMCG
+    verantwoordelijk voor ruim 24.000 banen in Groningen, bijna 30.000
+    in de noordelijke provincies en ruim 60.000 banen in Nederland.
+    Samen dragen RUG en UMCG jaarlijks €2,6 miljard bij aan de
+    Noord-Nederlandse economie en €5,4 miljard aan de Nederlandse
+    economie.^[76] <#cite_note-77> ^[77] <#cite_note-78> 
+
+
+    Studentenleven[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=14>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=14>]
+
+Het studentenleven speelt zich onder andere af bij studie- en
+studenten(sport)verenigingen. Zie voor een opsomming:
+
+  * Lijst van studieverenigingen
+    <https://nl.wikipedia.org/wiki/Lijst_van_universitaire_studieverenigingen#Rijksuniversiteit_Groningen>^[78]
+    <#cite_note-79> ^[79] <#cite_note-80>
+  * Lijst van studentengezelligheidsverenigingen
+    <https://nl.wikipedia.org/wiki/Lijst_van_studentengezelligheidsverenigingen_in_Nederland#Groningen>^[80]
+    <#cite_note-81>
+  * Lijst van confessionele studentenverenigingen
+    <https://nl.wikipedia.org/wiki/Lijst_van_confessionele_studentenverenigingen_in_Nederland#Groningen>
+  * Lijst van studentenmuziekverenigingen
+    <https://nl.wikipedia.org/wiki/Lijst_van_studentenmuziekverenigingen#Groningen>^[81]
+    <#cite_note-82>
+  * Lijst van studentensportverenigingen
+    <https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_studentensportverenigingen#Groningen>^[82]
+    <#cite_note-83> 
+
+
+    Eredoctoraten[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=15>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=15>]
+
+1rightarrow blue.svg
+<https://commons.wikimedia.org/wiki/File:1rightarrow_blue.svg> /Zie
+Lijst van eredoctoraten van de Rijksuniversiteit Groningen
+<https://nl.wikipedia.org/wiki/Lijst_van_eredoctoraten_van_de_Rijksuniversiteit_Groningen>
+voor het hoofdartikel over dit onderwerp./
+
+
+    Bekende alumni en medewerkers[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=16>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=16>]
+
+1rightarrow blue.svg
+<https://commons.wikimedia.org/wiki/File:1rightarrow_blue.svg> /Zie
+Lijst van bekende alumni en medewerkers van de Rijksuniversiteit
+Groningen
+<https://nl.wikipedia.org/wiki/Lijst_van_bekende_alumni_en_medewerkers_van_de_Rijksuniversiteit_Groningen>
+voor het hoofdartikel over dit onderwerp./
+
+In de loop van haar bestaan heeft de RUG talenten voortgebracht van heel
+verschillende aard. Onder hen zijn de eerste daadwerkelijk afgestudeerde
+vrouwelijke student (Aletta Jacobs
+<https://nl.wikipedia.org/wiki/Aletta_Jacobs>),^[83] <#cite_note-84> de
+eerste vrouwelijke lector in Nederland (Marie Elise Loke
+<https://nl.wikipedia.org/wiki/Marie_Elise_Loke>, 1907),^[84]
+<#cite_note-85> de eerste Nederlandse ruimtevaarder (Wubbo Ockels
+<https://nl.wikipedia.org/wiki/Wubbo_Ockels>)^[85] <#cite_note-86> ^[86]
+<#cite_note-87> en de eerste president van de Europese Centrale Bank
+(Wim Duisenberg <https://nl.wikipedia.org/wiki/Wim_Duisenberg>).^[87]
+<#cite_note-88> Naar deze laatste alumnus werden een gebouw^[88]
+<#cite_note-89> en een leerstoel^[89] <#cite_note-90> genoemd.
+
+
+    Publicaties[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=17>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=17>]
+
+  * Klaas van Berkel: /Universiteit van het Noorden. Vier eeuwen
+    academisch leven in Groningen. Deel 1: De oude universiteit
+    1614-1876/. Hilversum, Verloren, 2014. ISBN 978-90-8704-466-4
+    <https://nl.wikipedia.org/wiki/Speciaal:Boekbronnen/978-90-8704-466-4>
+  * Klaas van Berkel: /Universiteit van het Noorden. Vier eeuwen
+    academisch leven in Groningen. Deel 2: De klassieke universiteit
+    1876-1945/. Hilversum, Verloren, 2017. ISBN 978-90-8704-681-1
+    <https://nl.wikipedia.org/wiki/Speciaal:Boekbronnen/978-90-8704-681-1>
+  * Jolanda Oosterheert: /In vol ornaat. Vier eeuwen Groningse
+    senaatsgalerij/. Groningen, 2009. ISBN 9789077922576
+    <https://nl.wikipedia.org/wiki/Speciaal:Boekbronnen/9789077922576>
+  * /Universitair leven in Groningen 1614-1989. Professoren en
+    studenten, boek en uitgeverij/. Red. J. Kingma, W.R.H. Koops en
+    F.R.H. Groningen, 1989. ISBN 90-367-0162-7
+    <https://nl.wikipedia.org/wiki/Speciaal:Boekbronnen/90-367-0162-7>
+  * R.E.O. Ekkart en J. Schuller tot Peursum-Meijer: /Groninger
+    academieportretten. Catalogus van de portretten in het
+    Academiegebouw en de Bibliotheek der Rijksuniversiteit te
+    Groningen/. Groningen, 1978. Geen ISBN
+  * Historisch Genootschaap te Groningen: /Album Studiosorum Academiae
+    Groninganae./ Boekdrukkerij B. Wolters, Groningen, 1915
+
+
+    Externe link[bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit&section=18>|
+    brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit&section=18>]
+
+  * Officiële website <http://www.rug.nl/>
+
+*Noten*
+
+ 1. ↑ <#cite_ref-15> Als mogelijke reden hiervoor is wel aangevoerd dat
+    de universiteit het zich niet dacht te kunnen permiteren om zich fel
+    tegen de bezetter op te stellen en sluiting te riskeren (en dus de
+    studenten maar adviseerde om zich gedeisd te houden) omdat men bang
+    was dat na de oorlog Den Haag dan opnieuw zou kunnen proberen om de
+    universiteit te sluiten.^[14] <#cite_note-14>
+
+------------------------------------------------------------------------
+
+*Referenties*
+
+ 1. ↑ <#cite_ref-1> Verkorte geschiedenis van de Rijksuniversiteit
+    Groningen <http://www.rug.nl/about-us/who-are-we/history/short-history>
+ 2. ↑ <#cite_ref-2> Korte video over de pedelstaf, symbool van de
+    Keizerlijke Universiteit <https://www.youtube.com/watch?v=bW5tTMUTKHc>
+ 3. ↑ <#cite_ref-3> De Rijksuniversiteit Groningen kende verschillende
+    namen.
+    <http://www.rug.nl/society-business/university-museum/history/university-of-groningen/>
+
+ 4. ↑ <#cite_ref-4> Het wapen van de Rijksuniversiteit Groningen
+    <https://web.archive.org/web/20070211070710/http://www.rug.nl/corporate/info/rughuisstijl/huisstijlelementen/windows/RUGwapenKleurGroot.jpg>
+    (Internet Archive <https://nl.wikipedia.org/wiki/Internet_Archive>)
+ 5. ↑ <#cite_ref-5> Beschrijving van het originele wapen van de
+    universiteit
+    <http://www.rug.nl/about-us/how-to-find-us/huisstijl/basiselementen/logo/universiteitswapen>
+
+ 6. ↑ <#cite_ref-6> Wetenschap volgens het woord van God. (zie de
+    tijdlijn op 1 januari 1618)
+    <http://www.rug400.nl/rug400_2/rug_definitief.dev/nl/tijdlijn.html>
+ 7. ↑ <#cite_ref-7> Rug wordt joedzjie
+    <http://archief.ukrant.nl/nieuws/rug-wordt-joedzjie>.
+    Universiteitkrant. Geraadpleegd op 16 oktober 2017.
+ 8. ↑ <#cite_ref-8> De geschiedenis van de Juridische Faculteit
+    <http://www.rjhbrink.eu/Berolini/400-jaar.htm>
+ 9. ↑ <#cite_ref-9> Start van de universiteit met vier faculteiten
+    <http://www.rug.nl/bibliotheek/search/catalogus-professorum/faculteiten>
+
+10. ↑ <#cite_ref-10> Ubbo Emmius: de eerste rector
+    <http://www.rug.nl/alumni/steun-de-rug/ubbo-emmius-fonds/ue-fonds/ubbo-emmius-%281547-1625%29>
+
+11. ↑ <#cite_ref-11> Uitnodiging voor de inauguratie van de Keizerlijke
+    Universiteit
+    <http://www.rug.nl/bibliotheek/services/ub/gebouw/derdeverdieping/zaalbijzonderecollecties/bijzonderecollecties/programmata/academische_edicten>
+
+12. ↑ <#cite_ref-12> Van Hogeschool naar Rijksuniversiteit
+    <http://www.rug.nl/science-and-society/university-museum/history/university-of-groningen/1876-present>
+    rug.nl
+13. ↑ <#cite_ref-13> (en) Frits Zernike krijgt Nobelprijs
+    <http://www.nobelprize.org/nobel_prizes/physics/laureates/1953/zernike-bio.html>
+    nobelprize.org
+14. ↑ <#cite_ref-14> Mathijs Deen, "Een betoverende gebeurtenis",
+    /Broerstraat 5/ nr. 4, december 2017. pp. 18-19.
+15. ↑ <#cite_ref-16> Informatie over de eerstejaars rechtenstudie in
+    Leeuwarden
+    <http://www.rug.nl/rechten/voorlichting/vestiging-friesland/> rug.nl
+16. ↑ <#cite_ref-17> Programma 400 jaar Rijksuniversiteit Groningen
+    <http://www.rug.nl/news-and-events/events/lustrum/>
+17. ↑ <#cite_ref-18> For Infinity; The Movie
+    <https://www.youtube.com/watch?v=Beu0s3UpXlI> Youtube.com
+18. ↑ <#cite_ref-19> De University of Groningen/Campus Fryslân in
+    Leeuwarden wordt officieel de elfde faculteit van de
+    Rijksuniversiteit Groningen
+    <http://www.rug.nl/news/2015/01/university-returns-to-fryslan-after-two-hundred-years>.
+
+19. ↑ <#cite_ref-20> RUG/Campus Fryslân <http://www.rug.nl/cf/> rug.nl
+20. ↑ <#cite_ref-21> Rijksuniversiteit Groningen/Campus Fryslân
+    <http://www.rug.nl/cf/>
+21. ↑ <#cite_ref-22> "Rijksuniversiteit Groningen blaast plan Chinees
+    filiaal af"
+    <https://nos.nl/artikel/2214377-rijksuniversiteit-groningen-blaast-plan-chinees-filiaal-af.html>,
+    NOS.nl, 29 januari 2018
+22. ↑ <#cite_ref-23> Bekijk het virtueel Anatomisch Museum van de
+    Rijksuniversiteit Groningen
+    <https://web.archive.org/web/20141105173202/http://anatomie.ub.rug.nl/index.htm>
+
+23. ↑ <#cite_ref-24> pdf-document
+    <https://commons.wikimedia.org/wiki/File:Nuvola_mimetypes_pdf.png>Volkenkundig
+    Museum Gerardus van der Leeuw
+    <http://www.rug.nl/science-and-society/university-museum/collections/ethnological/pdf/mgcataloguslr.pdf>
+    rug.nl
+24. ↑ <#cite_ref-25> De Rijksuniversiteit Groningen is lid van de
+    Stichting Academisch Erfgoed <http://www.academischerfgoed.nl/>
+25. ↑ <#cite_ref-26> Faculteit Economie en Bedrijfskunde
+    <http://www.rug.nl/feb/> rug.nl
+26. ↑ <#cite_ref-27> Fusie van Faculteit Economie en Faculteit
+    Bedrijfskunde <http://www.rug.nl/news/2007/09/093_07>
+27. ↑ <#cite_ref-28> Opleidingen van de Faculteit Economie en
+    Bedrijfskunde <http://www.rug.nl/feb/education/allprogrammes>
+28. ↑ <#cite_ref-29> Faculteit Godgeleerdheid en Godsdienstwetenschap
+    <http://www.rug.nl/ggw/>
+29. ↑ <#cite_ref-30> Faculteit Gedrags- en Maatschappijwetenschappen
+    <http://www.rug.nl/gmw/>
+30. ↑ <#cite_ref-31> Faculteit der Letteren <http://www.rug.nl/let/>
+31. ↑ <#cite_ref-32> Faculteit Medische Wetenschappen
+    <http://www.rug.nl/umcg/>
+32. ↑ <#cite_ref-33> Faculteit Rechtsgeleerdheid
+    <http://www.rug.nl/rechten/>
+33. ↑ <#cite_ref-34> Faculteit Ruimtelijke Wetenschappen
+    <http://www.rug.nl/frw/>
+34. ↑ <#cite_ref-35> Faculteit Wijsbegeerte <http://www.rug.nl/filosofie/>
+35. ↑ <#cite_ref-36> Faculteit Wiskunde en Natuurwetenschappen
+    <http://www.rug.nl/fwn/>
+36. ↑ <#cite_ref-37> University College Groningen <http://www.rug.nl/ucg/>
+37. ↑ <#cite_ref-38> Samenwerkingsverbanden waarin de RUG participeert.
+    <http://www.rug.nl/about-us/collaboration/>
+38. ↑ <#cite_ref-39> De Rijksuniversiteit Groningen heeft al 20 jaar
+    ervaring met ontwikkelingsprojecten.
+    <http://www.rug.nl/about-us/internationalization/international-partner-agreements/development-aid/>
+    (website RUG)
+39. ↑ <#cite_ref-40> De Rijksuniversiteit Groningen is lid van de
+    Coimbra Group
+    <https://web.archive.org/web/20160605170448/http://www.coimbra-group.eu/home/map>
+
+40. ↑ <#cite_ref-41> De Rijksuniversiteit Groningen is lid
+    <https://web.archive.org/web/20150217180215/http://www.eua.be/eua-membership-and-services/Home/members-directory.aspx?q=groningen>
+    van de European University Association
+    <https://nl.wikipedia.org/wiki/European_University_Association>
+41. ↑ <#cite_ref-42> De Rijksuniversiteit Groningen is lid van "Asea
+    Uninet" <http://asea-uninet.org/index.php?seite=13.members>
+42. ↑ <#cite_ref-43> Over de "Asia-Pacific Association for International
+    Education"
+    <https://web.archive.org/web/20150217185756/http://www.apaie.org/about/>
+
+43. ↑ <#cite_ref-44> Strategische partners van de Rijksuniversiteit
+    Groningen
+    <http://www.rug.nl/about-us/internationalization/international-partner-agreements/strategic-partners>
+
+44. ↑ <#cite_ref-45> De Rijksuniversiteit Groningen is lid van het U4
+    universiteitsnetwerk <http://www.u4network.eu/?q=about>
+45. ↑ <#cite_ref-46> Erasmus+ partners van de Rijksuniversiteit
+    Groningen
+    <http://www.rug.nl/about-us/internationalization/international-partner-agreements/european-commission>
+
+46. ↑ <#cite_ref-47> Inleiding over het onderwijs van de
+    Rijksuniversiteit Groningen <http://www.rug.nl/education/> (website
+    RUG)
+47. ↑ <#cite_ref-48> Inleiding over het onderzoek van de
+    Rijksuniversiteit Groningen <http://www.rug.nl/research/> (Website RUG)
+48. ↑ <#cite_ref-49> Inleiding over de interdiciplinaire
+    onderzoeksgroepen van de Rijksuniversiteit Groningen
+    <http://www.rug.nl/about-us/collaboration/research-collaboration/>
+    (Website RUG)
+49. ↑ <#cite_ref-50> Jaarverslag RUG 2015
+    <http://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/annual-reports/rug-jaarverslag-2015.pdf>
+
+50. ↑ <#cite_ref-51> Jaarverslag 2016: aantal promovendi.
+    <http://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/annual-reports/rug-annual-report-2016.pdf>
+
+51. ↑ <#cite_ref-52> The Zernike Institute for Advanced Materials
+    <http://www.rug.nl/zernike>. Geraadpleegd op 16 oktober 2017.
+52. ↑ <#cite_ref-53> Opleidingen van de Rijksuniversiteit Groningen 2017
+    <http://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/>
+53. ↑ <#cite_ref-54> Feiten en cijfers Rijksuniversiteit Groningen 2015
+    <http://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/>
+54. ↑ <#cite_ref-55> Rijksuniversiteit Groningen scoort dit jaar met
+    bèta, economie, rechten en godsdienstwetenschap
+    <https://www.rug.nl/news/2017/10/rijksuniversiteit-groningen-scoort-dit-jaar-met-beta-economie-rechten-en-godsdienstwetenschap>
+
+55. ↑ <#cite_ref-56> Feiten en cijfers Rijksuniversiteit Groningen 2016
+    <http://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/>
+56. ↑ <#cite_ref-57> Kerncijfers RUG 2017
+    <https://www.rug.nl/about-us/where-do-we-stand/facts-and-figures/>
+57. ↑ <#cite_ref-58> THE-WUR Rankings 2014-2015
+    <http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/institution/university-of-groningen>
+
+58. ↑ <#cite_ref-59> De Rijksuniversiteit Groningen staat in de
+    THE-ranking van 2015 op plaats 74.
+    <https://www.timeshighereducation.com/world-university-rankings/2016/world-ranking#!/page/2/length/25>
+
+59. ↑ <#cite_ref-60> De internationale positie van de Rijksuniversiteit
+    Groningen. <http://www.rug.nl/about-us/where-do-we-stand/rankings>
+60. ↑ <#cite_ref-61> Academic Ranking of World Universities 2014
+    <http://www.shanghairanking.com/World-University-Rankings/University-of-Groningen.html>
+
+61. ↑ <#cite_ref-62> Academic Ranking of World Universities 2015
+    <http://www.shanghairanking.com/ARWU2015.html>
+62. ↑ <#cite_ref-63> In 2017 is de RUG in de ARWU-ranking gestegen naar
+    positie 59 wereldwijd. <http://www.shanghairanking.com/ARWU2017.html>
+63. ↑ <#cite_ref-64> QS World University Rankings 2014-2015
+    <http://www.topuniversities.com/node/2525/ranking-details/university-subject-rankings/2014>
+
+64. ↑ <#cite_ref-65> QS World University Rankings 2015
+    <http://www.topuniversities.com/universities/university-groningen#wur>
+65. ↑ <#cite_ref-66> NTU Ranking
+    <https://web.archive.org/web/20151002011642/http://nturanking.lis.ntu.edu.tw/DataPage/OverallRanking.aspx?y=2014>
+
+66. ↑ <#cite_ref-67> Webometrics ranking
+    <http://www.webometrics.info/en/Europe/Netherlands>
+67. ↑ <#cite_ref-68> Webometrics ranking 2017
+    <http://www.webometrics.info/en/Europe>
+68. ↑ <#cite_ref-69> Best places to work ranglijst
+    <http://www.the-scientist.com/?articles.view/articleNo/32392/title/Best-Places-to-Work-Academia--2012/>
+
+69. ↑ <#cite_ref-70> UI GreenMetric Ranking of World Universities 2012
+    <http://greenmetric.ui.ac.id/>
+70. ↑ <#cite_ref-71> GreenMetric Ranking of World Universities 2013
+    <https://web.archive.org/web/20141008123359/http://greenmetric.ui.ac.id/ranking/detailUniv/2013/rug.nl>
+
+71. ↑ <#cite_ref-72> Persbericht International Student Barometer
+    <http://www.rug.nl/education/news/news-prospective-students/groningen-best-university-isb>
+
+72. ↑ <#cite_ref-73> Global Employability Survey 2014
+    <https://web.archive.org/web/20150217033507/http://emerging.fr/rank_en.html>
+
+73. ↑ <#cite_ref-74> Herdruk Keuzegids Universiteiten 2015
+    <https://web.archive.org/web/20141126002441/http://www.keuzegids.org/nieuws7698>
+
+74. ↑ <#cite_ref-75> Keuzegids herzien: nu zes topopleidingen en tien
+    eerste plaatsen
+    <http://www.rug.nl/news/2014/10/four-_top-degree-programmes__-eight-best-in-their-category>
+
+75. ↑ <#cite_ref-76>
+    https://www.rug.nl/news/2018/03/university-of-groningen-the-best-broad-master-university-in-the-netherlands
+    <https://www.rug.nl/news/2018/03/university-of-groningen-the-best-broad-master-university-in-the-netherlands>
+
+76. ↑ <#cite_ref-77> Fact Sheet: Economic impact of RUG en UMCG
+    <http://www.rug.nl/news-and-events/news/archief2014/nieuwsberichten/rug-umcg-economic-impact-fact-sheet-27jun14.pdf>
+
+77. ↑ <#cite_ref-78> Biggar Economics. /Combined Economic Impact of the
+    University of Groningen and UMC Groningen/. (2014)
+    <http://www.rug.nl/news-and-events/news/archief2014/nieuwsberichten/rug-umcg-economic-impact-report-27jun14.pdf>
+
+78. ↑ <#cite_ref-79> Overzicht van de Groningse studentenverenigingen
+    <http://www.rug.nl/education/find-out-more/extracurricular-activities-associations/>
+
+79. ↑ <#cite_ref-80> Internationale Studieverenigingen van de
+    Rijksuniversiteit Groningen
+    <http://www.rug.nl/education/find-out-more/extracurricular-activities-associations/international-student-associations>
+
+80. ↑ <#cite_ref-81> Studentengezelligheidsverenigingen in Groningen
+    <http://www.rug.nl/education/find-out-more/extracurricular-activities-associations/student-societies>
+
+81. ↑ <#cite_ref-82> Culturele verenigingen van de Rijksuniversiteit
+    Groningen
+    <http://www.rug.nl/education/find-out-more/extracurricular-activities-associations/cultural>
+
+82. ↑ <#cite_ref-83> Website van de studentensportverenigingen in
+    Groningen
+    <https://web.archive.org/web/20150217180815/http://www.aclosport.nl/en/sports/>
+
+83. ↑ <#cite_ref-84> Aletta Jacobs: de eerste afgestudeerde vrouwelijke
+    student in Nederland
+    <http://www.rug.nl/science-and-society/illustra2014/aletta-jacobs>
+84. ↑ <#cite_ref-85> Marie Elise Loke: de eerste vrouwelijke lector van
+    Nederland
+    <http://www.rug.nl/let/organization/bestuur-afdelingen-en-medewerkers/afdelingen/afdeling-rtc/oudromaans/geschiedenis>
+
+85. ↑ <#cite_ref-86> Wubbo Ockels: Een van de beroemdste alumni van de
+    Rijksuniversiteit Groningen
+    <http://www.rug.nl/news/2014/05/0519wubboockels>
+86. ↑ <#cite_ref-87> Informatie van NASA over Wubbo Ockels
+    <http://www.nasa.gov/externalflash/the_shuttle/239.html>
+87. ↑ <#cite_ref-88> Wim Duisenberg: Alumnus van de Rijksuniversiteit
+    Groningen
+    <http://www.rug.nl/education/summer-winter-schools/excellent-research-university/>
+
+88. ↑ <#cite_ref-89> Duisenberggebouw
+    <http://www.rug.nl/news-and-events/newsletters/international/2010/duisenbergbuilding>
+
+89. ↑ <#cite_ref-90> Duisenberg leerstoel
+    <http://www.rug.nl/research/our-top-research/top-researchers/named-chairs/duisenberg-chair>
+
+
+Wikimedia Commons
+<https://commons.wikimedia.org/wiki/File:Commons-logo.svg> 	Zie de
+categorie /*Rijksuniversiteit Groningen
+<https://commons.wikimedia.org/wiki/Category:Rijksuniversiteit_Groningen?uselang=nl#mw-subcategories>*/
+van Wikimedia Commons <https://nl.wikipedia.org/wiki/Wikimedia_Commons>
+voor mediabestanden over dit onderwerp.
+
+Universiteiten <https://nl.wikipedia.org/wiki/Universiteit> in Nederland
+*Bekostigd:*	Amsterdam
+<https://nl.wikipedia.org/wiki/Universiteit_van_Amsterdam> · Delft
+<https://nl.wikipedia.org/wiki/Technische_Universiteit_Delft> ·
+Eindhoven
+<https://nl.wikipedia.org/wiki/Technische_Universiteit_Eindhoven> ·
+Groningen · Leiden <https://nl.wikipedia.org/wiki/Universiteit_Leiden> ·
+Maastricht <https://nl.wikipedia.org/wiki/Universiteit_Maastricht> ·
+Nijmegen <https://nl.wikipedia.org/wiki/Radboud_Universiteit> · Open
+Universiteit <https://nl.wikipedia.org/wiki/Open_Universiteit> ·
+Rotterdam <https://nl.wikipedia.org/wiki/Erasmus_Universiteit_Rotterdam>
+· Tilburg <https://nl.wikipedia.org/wiki/Tilburg_University> · Twente
+<https://nl.wikipedia.org/wiki/Universiteit_Twente> · Utrecht
+<https://nl.wikipedia.org/wiki/Universiteit_Utrecht> · Vrije
+Universiteit
+<https://nl.wikipedia.org/wiki/Vrije_Universiteit_Amsterdam> ·
+Wageningen
+<https://nl.wikipedia.org/wiki/Wageningen_University_%26_Research>
+*Aangewezen:*	Humanistiek
+<https://nl.wikipedia.org/wiki/Universiteit_voor_Humanistiek> · Kampen
+(Broederweg)
+<https://nl.wikipedia.org/wiki/Theologische_Universiteit_Kampen_(Broederweg)>
+· Nyenrode
+<https://nl.wikipedia.org/wiki/Nyenrode_Business_Universiteit> ·
+Protestantse Theologische Universiteit
+<https://nl.wikipedia.org/wiki/Protestantse_Theologische_Universiteit> ·
+Saba <https://nl.wikipedia.org/wiki/Saba_University_School_of_Medicine>
+· TIAS
+<https://nl.wikipedia.org/wiki/TIAS_School_for_Business_and_Society> ·
+T.U. Apeldoorn
+<https://nl.wikipedia.org/wiki/Theologische_Universiteit_Apeldoorn>
+*Grensoverstijgend:*	Limburg
+<https://nl.wikipedia.org/wiki/Transnationale_Universiteit_Limburg> ·
+Webster University <https://nl.wikipedia.org/wiki/Webster_University>
+*Voormalig:*	Harderwijk
+<https://nl.wikipedia.org/wiki/Universiteit_van_Harderwijk> · Franeker
+<https://nl.wikipedia.org/wiki/Universiteit_van_Franeker> ·
+Kwartierlijke Academie van Nijmegen
+<https://nl.wikipedia.org/wiki/Kwartierlijke_Academie_van_Nijmegen> ·
+K.T.U. Utrecht
+<https://nl.wikipedia.org/wiki/Katholieke_Theologische_Universiteit_Utrecht>
+
+Coimbragroep <https://nl.wikipedia.org/wiki/Coimbragroep>
+
+Aarhus <https://nl.wikipedia.org/wiki/Universiteit_van_Aarhus> · Åbo
+<https://nl.wikipedia.org/wiki/%C3%85bo_Akademi> · Barcelona
+<https://nl.wikipedia.org/wiki/Universiteit_van_Barcelona> · Bergen
+<https://nl.wikipedia.org/wiki/Universiteit_van_Bergen_(Noorwegen)> ·
+Boedapest
+<https://nl.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s-universiteit> ·
+Bologna <https://nl.wikipedia.org/wiki/Universiteit_van_Bologna> ·
+Bristol <https://nl.wikipedia.org/wiki/Universiteit_van_Bristol> ·
+Cambridge <https://nl.wikipedia.org/wiki/Universiteit_van_Cambridge> ·
+Coimbra <https://nl.wikipedia.org/wiki/Universiteit_van_Coimbra> ·
+Dublin <https://nl.wikipedia.org/wiki/Universiteit_van_Dublin> ·
+Edinburgh <https://nl.wikipedia.org/wiki/Universiteit_van_Edinburgh> ·
+Galway
+<https://nl.wikipedia.org/wiki/Nationale_Universiteit_van_Ierland,_Galway>
+· Genève <https://nl.wikipedia.org/wiki/Universiteit_van_Gen%C3%A8ve> ·
+Göttingen
+<https://nl.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen>
+· Graz <https://nl.wikipedia.org/wiki/Universiteit_van_Graz> · Granada
+<https://nl.wikipedia.org/wiki/Universiteit_van_Granada> · Groningen ·
+Heidelberg <https://nl.wikipedia.org/wiki/Ruprecht-Karls-universiteit> ·
+Iași
+<https://nl.wikipedia.org/wiki/Alexander_Jan_Cuza-universiteit_van_Ia%C8%99i>
+· Jena
+<https://nl.wikipedia.org/wiki/Friedrich-Schiller-Universit%C3%A4t_Jena>
+· Krakau <https://nl.wikipedia.org/wiki/Jagiellonische_Universiteit> ·
+Leiden <https://nl.wikipedia.org/wiki/Universiteit_Leiden> · Leuven
+<https://nl.wikipedia.org/wiki/Katholieke_Universiteit_Leuven> ·
+Louvain-la-Neuve
+<https://nl.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain> ·
+Lyon <https://nl.wikipedia.org/wiki/Universiteit_van_Lyon> · Montpellier
+<https://nl.wikipedia.org/wiki/Universit%C3%A9_Montpellier_Sud_de_France> ·
+Oxford <https://nl.wikipedia.org/wiki/Universiteit_van_Oxford> · Padua
+<https://nl.wikipedia.org/wiki/Universiteit_van_Padua> · Pavia
+<https://nl.wikipedia.org/wiki/Universiteit_van_Pavia> · Poitiers
+<https://nl.wikipedia.org/wiki/Universiteit_van_Poitiers> · Praag
+<https://nl.wikipedia.org/wiki/Karelsuniversiteit_Praag> · Salamanca
+<https://nl.wikipedia.org/wiki/Universiteit_van_Salamanca> · Siena
+<https://nl.wikipedia.org/wiki/Universiteit_van_Siena> · Tartu
+<https://nl.wikipedia.org/wiki/Universiteit_van_Tartu> · Thessaloniki
+<https://nl.wikipedia.org/wiki/Aristoteles-universiteit_van_Thessaloniki> ·
+Turku <https://nl.wikipedia.org/wiki/Universiteit_van_Turku> · Uppsala
+<https://nl.wikipedia.org/wiki/Universiteit_van_Uppsala> · Würzburg
+<https://nl.wikipedia.org/wiki/Julius_Maximilians-Universiteit>
+
+Overgenomen van
+"https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&oldid=55416851
+<https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&oldid=55416851>"
+Categorie <https://nl.wikipedia.org/wiki/Categorie:Alles>:
+
+  * Rijksuniversiteit Groningen
+    <https://nl.wikipedia.org/wiki/Categorie:Rijksuniversiteit_Groningen>
+
+Verborgen categorieën:
+
+  * Wikipedia:Lokale afbeelding anders dan op Wikidata
+    <https://nl.wikipedia.org/wiki/Categorie:Wikipedia:Lokale_afbeelding_anders_dan_op_Wikidata>
+  * Wikipedia:Commonscat met lokaal zelfde link als op Wikidata
+    <https://nl.wikipedia.org/wiki/Categorie:Wikipedia:Commonscat_met_lokaal_zelfde_link_als_op_Wikidata>
+
+
+    Navigatiemenu
+
+
+Persoonlijke instellingen
+
+  * Niet aangemeld
+  * Overleg <https://nl.wikipedia.org/wiki/Speciaal:MijnOverleg>
+  * Bijdragen <https://nl.wikipedia.org/wiki/Speciaal:MijnBijdragen>
+  * Registreren
+    <https://nl.wikipedia.org/w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Rijksuniversiteit+Groningen>
+  * Aanmelden
+    <https://nl.wikipedia.org/w/index.php?title=Speciaal:Aanmelden&returnto=Rijksuniversiteit+Groningen>
+
+
+Naamruimten
+
+  * Artikel <https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Overleg
+    <https://nl.wikipedia.org/wiki/Overleg:Rijksuniversiteit_Groningen>
+
+
+      Varianten
+
+
+Weergaven
+
+  * Lezen <https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&veaction=edit>
+  * Brontekst bewerken
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=edit>
+  * Geschiedenis
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=history>
+
+
+      Meer
+
+
+      Zoeken
+
+<https://nl.wikipedia.org/wiki/Hoofdpagina>
+
+
+Navigatie
+
+  * Hoofdpagina <https://nl.wikipedia.org/wiki/Hoofdpagina>
+  * Vind een artikel <https://nl.wikipedia.org/wiki/Portaal:Navigatie>
+  * Vandaag <https://nl.wikipedia.org/wiki/7_maart>
+  * Etalage <https://nl.wikipedia.org/wiki/Wikipedia:Etalage>
+  * Categorieën <https://nl.wikipedia.org/wiki/Categorie:Alles>
+  * Recente wijzigingen
+    <https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingen>
+  * Nieuwe artikelen <https://nl.wikipedia.org/wiki/Speciaal:NieuwePaginas>
+  * Willekeurige pagina <https://nl.wikipedia.org/wiki/Speciaal:Willekeurig>
+
+
+      Informatie
+
+  * Gebruikersportaal
+    <https://nl.wikipedia.org/wiki/Portaal:Gebruikersportaal>
+  * Snelcursus <https://nl.wikipedia.org/wiki/Wikipedia:Snelcursus>
+  * Hulp en contact <https://nl.wikipedia.org/wiki/Portaal:Hulp_en_beheer>
+  * Donaties
+    <https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_nl.wikipedia.org&uselang=nl>
+
+
+      Hulpmiddelen
+
+  * Links naar deze pagina
+    <https://nl.wikipedia.org/wiki/Speciaal:VerwijzingenNaarHier/Rijksuniversiteit_Groningen>
+  * Verwante wijzigingen
+    <https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingenGelinkt/Rijksuniversiteit_Groningen>
+  * Bestand uploaden
+    <https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=nl>
+  * Speciale pagina's
+    <https://nl.wikipedia.org/wiki/Speciaal:SpecialePaginas>
+  * Permanente koppeling
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&oldid=55416851>
+  * Paginagegevens
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&action=info>
+  * Wikidata-item <https://www.wikidata.org/wiki/Special:EntityPage/Q850730>
+  * Deze pagina citeren
+    <https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=Rijksuniversiteit_Groningen&id=55416851>
+
+
+      In andere projecten
+
+  * Wikimedia Commons
+    <https://commons.wikimedia.org/wiki/Category:Rijksuniversiteit_Groningen>
+
+
+      Afdrukken/exporteren
+
+  * Boek maken
+    <https://nl.wikipedia.org/w/index.php?title=Speciaal:Boek&bookcmd=book_creator&referer=Rijksuniversiteit+Groningen>
+  * Downloaden als PDF
+    <https://nl.wikipedia.org/w/index.php?title=Speciaal:ElectronPdf&page=Rijksuniversiteit+Groningen&action=show-download-screen>
+  * Printvriendelijke versie
+    <https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&printable=yes>
+
+
+      In andere talen
+
+  * Afrikaans <https://af.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * العربية
+    <https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%AE%D8%B1%D9%88%D9%86%D9%8A%D9%86%D8%BA%D9%86>
+  * مصرى
+    <https://arz.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%AE%D8%B1%D9%88%D9%86%D9%8A%D9%86%D8%AC%D9%8A%D9%86>
+  * Azərbaycanca <https://az.wikipedia.org/wiki/Qroningen_Universiteti>
+  * تۆرکجه
+    <https://azb.wikipedia.org/wiki/%D8%AE%D8%B1%D9%88%D9%86%DB%8C%D9%86%D9%82%D9%86_%D8%A8%DB%8C%D9%84%DB%8C%D9%85%E2%80%8C%DB%8C%D9%88%D8%B1%D8%AF%D9%88>
+  * Български
+    <https://bg.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82>
+  * Català <https://ca.wikipedia.org/wiki/Universitat_de_Groningen>
+  * Čeština <https://cs.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Dansk <https://da.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Deutsch <https://de.wikipedia.org/wiki/Reichsuniversit%C3%A4t_Groningen>
+  * Ελληνικά
+    <https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%A7%CF%81%CF%8C%CE%BD%CE%B9%CE%BD%CE%B3%CE%BA%CE%B5%CE%BD>
+  * English <https://en.wikipedia.org/wiki/University_of_Groningen>
+  * Esperanto
+    <https://eo.wikipedia.org/wiki/Regna_Universitato_de_Groningen>
+  * Español <https://es.wikipedia.org/wiki/Universidad_de_Groninga>
+  * Eesti <https://et.wikipedia.org/wiki/Groningeni_%C3%9Clikool>
+  * فارسی
+    <https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%AE%D8%B1%D9%88%D9%86%DB%8C%D9%86%DA%AF%D9%86>
+  * Suomi <https://fi.wikipedia.org/wiki/Groningenin_yliopisto>
+  * Føroyskt <https://fo.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Français <https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Groningue>
+  * Frysk <https://fy.wikipedia.org/wiki/Ryksuniversiteit_Grins>
+  * עברית
+    <https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%A0%D7%92%D7%9F>
+  * Bahasa Indonesia <https://id.wikipedia.org/wiki/Universitas_Groningen>
+  * Italiano <https://it.wikipedia.org/wiki/Universit%C3%A0_di_Groninga>
+  * 日本語
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B2%E3%83%B3%E5%A4%A7%E5%AD%A6>
+  * Jawa <https://jv.wikipedia.org/wiki/Universitas_Groningen>
+  * ქართული
+    <https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%98%E1%83%9C%E1%83%92%E1%83%94%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A3%E1%83%9C%E1%83%98%E1%83%95%E1%83%94%E1%83%A0%E1%83%A1%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98>
+  * 한국어
+    <https://ko.wikipedia.org/wiki/%ED%9D%90%EB%A1%9C%EB%8B%9D%EC%96%B8_%EB%8C%80%ED%95%99%EA%B5%90>
+  * Кыргызча
+    <https://ky.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B8>
+  * Latina <https://la.wikipedia.org/wiki/Universitas_Groningensis>
+  * Lëtzebuergesch
+    <https://lb.wikipedia.org/wiki/Universit%C3%A9it_Groningen>
+  * Latviešu <https://lv.wikipedia.org/wiki/Groningenas_Universit%C4%81te>
+  * മലയാളം
+    <https://ml.wikipedia.org/wiki/%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%B5%E0%B5%87%E0%B4%B4%E0%B5%8D%E0%B4%B8%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF_%E0%B4%93%E0%B4%AB%E0%B5%8D_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%A3%E0%B4%BF%E0%B5%BB%E0%B4%9C%E0%B5%86%E0%B5%BB>
+  * Norsk bokmål <https://no.wikipedia.org/wiki/Universitetet_i_Groningen>
+  * Polski <https://pl.wikipedia.org/wiki/Uniwersytet_w_Groningen>
+  * پنجابی
+    <https://pnb.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%B1%D8%B3%D9%B9%DB%8C_%D8%A2%D9%81_%DA%AF%D8%B1%D9%88%D9%86%D9%86%DA%AF%D9%86>
+  * Português <https://pt.wikipedia.org/wiki/Universidade_de_Groningen>
+  * Русский
+    <https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82>
+  * Simple English
+    <https://simple.wikipedia.org/wiki/University_of_Groningen>
+  * Slovenčina <https://sk.wikipedia.org/wiki/Rijksuniversiteit_Groningen>
+  * Seeltersk <https://stq.wikipedia.org/wiki/Universit%C3%A4t_Groningen>
+  * Svenska <https://sv.wikipedia.org/wiki/Universitetet_i_Groningen>
+  * Tagalog <https://tl.wikipedia.org/wiki/Unibersidad_ng_Groningen>
+  * Українська
+    <https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BD%D1%96%D0%BD%D0%B3%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82>
+  * Tiếng Việt
+    <https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Groningen>
+  * 中文
+    <https://zh.wikipedia.org/wiki/%E6%A0%BC%E7%BD%97%E5%AE%81%E6%A0%B9%E5%A4%A7%E5%AD%A6>
+  * Bân-lâm-gú
+    <https://zh-min-nan.wikipedia.org/wiki/Groningen_T%C4%81i-ha%CC%8Dk>
+  * 粵語
+    <https://zh-yue.wikipedia.org/wiki/%E6%A0%BC%E7%BE%85%E5%AF%A7%E6%A0%B9%E5%A4%A7%E5%AD%B8>
+    Nog 38
+
+Koppelingen bewerken
+<https://www.wikidata.org/wiki/Special:EntityPage/Q850730#sitelinks-wikipedia>
+
+  * Deze pagina is voor het laatst bewerkt op 10 jan 2020 om 11:52.
+  * De tekst is beschikbaar onder de licentie Creative Commons
+    Naamsvermelding/Gelijk delen
+    <http://creativecommons.org/licenses/by-sa/3.0/deed.nl>, er kunnen
+    aanvullende voorwaarden van toepassing zijn. Zie de
+    gebruiksvoorwaarden
+    <https://foundation.wikimedia.org/wiki/Terms_of_Use/nl> voor meer
+    informatie.
+    Wikipedia® is een geregistreerd handelsmerk van de Wikimedia
+    Foundation, Inc. <http://www.wikimediafoundation.org/>, een
+    organisatie zonder winstoogmerk.
+
+  * Privacybeleid <https://meta.wikimedia.org/wiki/Privacy_policy/nl>
+  * Over Wikipedia <https://nl.wikipedia.org/wiki/Wikipedia>
+  * Voorbehoud <https://nl.wikipedia.org/wiki/Wikipedia:Algemeen_voorbehoud>
+  * Ontwikkelaars
+    <https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute>
+  * Statistieken <https://stats.wikimedia.org/#/nl.wikipedia.org>
+  * Cookiesverklaring
+    <https://foundation.wikimedia.org/wiki/Cookie_statement>
+  * Mobiele weergave
+    <https://nl.m.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&mobileaction=toggle_view_mobile>
+  * Voorvertoningen inschakelen <#>
+
+  * Wikimedia Foundation <https://wikimediafoundation.org/>
+  * Powered by MediaWiki <https://www.mediawiki.org/>
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
